@@ -8,11 +8,9 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "QFN Breakout For TinyTapeout Skywater ASICs")
-		(date "2025-10-04")
-		(rev "3.2")
-		(company "Psychogenic Technologies INC")
-		(comment 1 "(C) 2025 Pat Deegan")
+		(title "TT08 COB ETR")
+		(date "2026-03-03")
+		(rev "1.0")
 	)
 	(layers
 		(0 "F.Cu" signal)
